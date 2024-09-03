@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="@string/search_title"
+        android:icon="@drawable/search1"
+        android:id="@+id/searchFragment"/>
+
+    <item
+        android:icon="@drawable/publish"
+        android:title="@string/publish_title"
+        android:id="@+id/publishFragment"/>
+
+    <item
+        android:title="@string/your_rides_title"
+        android:icon="@drawable/your_rides"
+        android:id="@+id/your_rideFragment"/>
+
+    <item
+        android:title="@string/inbox_title"
+        android:icon="@drawable/inbox"
+        android:id="@+id/inboxFragment"/>
+
+    <item
+        android:title="@string/profile_title"
+        android:icon="@drawable/profile"
+        android:id="@+id/profileFragment"/>
+</menu>

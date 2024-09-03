@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "373802194568",
+    "firebase_url": "https://corider-39b9d-default-rtdb.firebaseio.com",
+    "project_id": "corider-39b9d",
+    "storage_bucket": "corider-39b9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373802194568:android:0f9c91ddd2528a75d4b13d",
+        "android_client_info": {
+          "package_name": "com.example.corider"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtEgmAZY5TRqlT1Uzrvq1cO8yOe5jpnCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

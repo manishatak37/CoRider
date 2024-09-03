@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">corider</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_title">Search</string>
+    <string name="publish_title">Publish</string>
+    <string name="your_rides_title">Your rides</string>
+    <string name="inbox_title">Inbox</string>
+    <string name="profile_title">Profile</string>
 </resources>
