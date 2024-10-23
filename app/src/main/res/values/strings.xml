@@ -6,4 +6,20 @@
     <string name="your_rides_title">Your rides</string>
     <string name="inbox_title">Inbox</string>
     <string name="profile_title">Profile</string>
+    <string name="inbox">inbox</string>
+    <string name="publish">publish</string>
+    <string name="notification">Notification</string>
+    <string name="button">Button</string>
+    <string name="map_options">This is the map_options</string>
+
+
+<!--    <string name="osmdroid_base_path">/sdcard/osmdroid/</string>-->
+    <string name="date_format">%d/%d/%d</string>
+    <string-array name="travel_preferences">
+        <item>I’m chatty when I feel comfortable</item>
+        <item>I’ll jam depending on the mood</item>
+        <item>Cigarette breaks outside the car are ok</item>
+        <item>I’ll travel with pets depending on the animal</item>
+    </string-array>
+
 </resources>
